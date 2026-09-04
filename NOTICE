@@ -1,0 +1,13 @@
+To Decay or Not to Decay
+
+Copyright 2026 Marouane Bouriche
+
+Licensed under the Apache License, Version 2.0.
+See the LICENSE file for details.
+
+This repository contains source code, scripts, and curated statistical result files
+for experiments on decaying Gaussian noise schedules in Denoising Autoencoder-based
+Intrusion Detection Systems.
+
+The original IDS datasets are not redistributed in this repository and remain
+subject to their respective licenses and terms of use.
