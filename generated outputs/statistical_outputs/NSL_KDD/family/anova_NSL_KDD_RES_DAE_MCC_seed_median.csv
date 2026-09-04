@@ -1,0 +1,2 @@
+family_unit_used,metric,dataset,num_groups,num_observations,f_statistic,p_value,AEVariant
+seed_median,MCC,NSL_KDD,9,27,0.04747820368205025,0.9999209682168645,RES_DAE

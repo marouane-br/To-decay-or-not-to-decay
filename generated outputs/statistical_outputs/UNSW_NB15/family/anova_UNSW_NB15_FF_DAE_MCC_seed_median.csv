@@ -1,0 +1,2 @@
+family_unit_used,metric,dataset,num_groups,num_observations,f_statistic,p_value,AEVariant
+seed_median,MCC,UNSW_NB15,9,27,0.5099362082656593,0.8334222353520816,FF_DAE

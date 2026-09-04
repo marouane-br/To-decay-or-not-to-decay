@@ -1,0 +1,2 @@
+family_unit_used,metric,dataset,num_groups,num_observations,f_statistic,p_value,AEVariant
+seed_median,MCC,HIKARI2021,9,27,0.47556389443732644,0.8576206730707575,FF_DAE

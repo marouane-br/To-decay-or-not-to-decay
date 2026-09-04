@@ -1,0 +1,2 @@
+family_unit_used,metric,dataset,num_groups,num_observations,f_statistic,p_value,AEVariant
+seed_median,MCC,CTU13,9,27,0.00019614890936384754,0.9999999999999715,SPARSE_DAE
